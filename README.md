@@ -28,7 +28,6 @@
 - 🌐 **Alzheimer's Disease MRI** – Classifies AD stages
 
 ## 📫 Connect With Me
-## 📫 Connect With Me
 <a href="https://hasanahmed77.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=readme&logoColor=white" alt="Portfolio" />
 </a> 
