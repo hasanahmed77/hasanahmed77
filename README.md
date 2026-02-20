@@ -28,10 +28,22 @@
 - 🌐 **Alzheimer's Disease MRI** – Classifies AD stages
 
 ## 📫 Connect With Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=readme&logoColor=white)](https://hasanahmed77.github.io/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustakim-ahmed-hasan-b5a55128a/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustakimahmedhasan@gmail.com) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasanahmed77)
+## 📫 Connect With Me
+<a href="https://hasanahmed77.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=readme&logoColor=white" alt="Portfolio" />
+</a> 
+&nbsp;
+<a href="https://www.linkedin.com/in/mustakim-ahmed-hasan-b5a55128a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a> 
+&nbsp;
+<a href="mailto:mustakimahmedhasan@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a> 
+&nbsp;
+<a href="https://github.com/hasanahmed77" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 ## 💡 Favorite Quote
 > "Stay hungry, stay foolish." — Steve Jobs
