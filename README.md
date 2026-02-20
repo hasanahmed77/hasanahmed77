@@ -1,11 +1,11 @@
-# 👋 Hello, World! I'm Mustakim
+# 👋 Hello, World! I'm Mustakim.
 
 - 🎓 Computer Science & Engineering student at North South University  
-- 🧩 Ambitious problem-solver with a strong interest in technology  
-- 💻 Passionate about software engineering, AI, and building scalable systems  
+- 🧩 Ambitious problem-solver with technology  
+- 💻 Passionate about Software Engineering, AI, and building scalable systems  
 - ⚡ Fast learner who turns ideas into high-quality products  
 - 🚀 Actively preparing for Software Engineering roles and entrepreneurship
-- 🛠️ Always building something and exploring new ideas
+- 🛠️ Always learning and building something
 
 ## 🛠️ Languages & Frameworks
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/) 
@@ -24,7 +24,7 @@
 
 ## 🚀 Selected Projects
 - 📝 **AI Worksheet Generator** – Fullstack AI web-app generating and auto-grading worksheets  
-- 🎮 **2D Fighting Game (C + SDL)** – Local multiplayer video game made with C
+- 🎮 **2D Fighting Game** – Local multiplayer video game made with C
 - 🌐 **Alzheimer's Disease MRI** – Classifies AD stages
 
 ## 📫 Connect With Me
