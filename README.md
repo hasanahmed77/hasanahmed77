@@ -7,31 +7,26 @@
 
 ---
 
-## 🔬 Research Interests
+## 🔬 Research Interest
 
-- Quantum Machine Learning (QML)  
-- Hybrid Quantum-Classical Models  
-- Medical Image Analysis (Deep Learning)  
+- Quantum Computing
+- Quantum Machine Learning (QML)
 
 ---
 
 ## 🧠 Research & Projects
 
-### 🔬 Hybrid Quantum-Classical CNN for Medical Imaging
+### 🔬 [Hybrid Quantum-Classical CNN](https://github.com/hasanahmed77/cqcnn-reimplementation)
 - Re-implementation of a CQ-CNN architecture from recent research  
 - Evaluating performance across multiple datasets (MedMNIST family)  
 - Comparing hybrid models with classical CNN baselines  
 - Performing **multi-run experiments and statistical evaluation (macro-F1, variance)**  
 
-🔗 [Project Repository](https://github.com/hasanahmed77/cqcnn-reimplementation)
-
 ---
 
-### 🧠 Alzheimer’s MRI Classification with Deep Learning
+### 🧠 [Alzheimer’s MRI Classification](https://github.com/hasanahmed77/alzheimers-mri-deep-learning)
 - Deep learning project for Alzheimer’s disease classification from brain MRI images  
 - Explores CNN-based approaches for disease detection from MRI data  
-
-🔗 [Project Repository](https://github.com/hasanahmed77/alzheimers-mri-deep-learning)
 
 ---
 
@@ -46,7 +41,7 @@
 
 ---
 
-### 🌐 Development (Secondary)
+### 🌐 Development
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/) 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
@@ -64,14 +59,6 @@
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-
----
-
-## 📊 Research Approach
-
-- Emphasis on **reproducibility and rigorous experimentation**  
-- Multi-dataset evaluation and statistical validation  
-- Focus on **insight-driven results**, not just performance metrics  
 
 ---
 
