@@ -82,4 +82,7 @@
 
 ---
 
-> “If you have fun, you can't lose.” — PewDiePie
+## 💡 Favorite Quote
+
+> *"If you have fun, you can't lose."*  
+> — PewDiePie
