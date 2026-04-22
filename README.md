@@ -1,7 +1,7 @@
 # 👋 Hello, World! I'm Mustakim.
 
 - 🎓 CSE Student at North South University 
-- 🔬 Aspiring researcher in **Quantum Machine Learning (QML)** and **Medical AI**  
+- 🔬 Aspiring researcher in **AI (Computer Vision)**  
 - 📊 Currently working on **hybrid quantum-classical neural networks (CQ-CNN)**  
 - 🎯 Goal: Fully funded **PhD in Computer Science**  
 
@@ -9,7 +9,7 @@
 
 ## 🔬 Research Interest
 
-- Quantum Computing
+- Computer Vision
 - Quantum Machine Learning (QML)
 
 ---
