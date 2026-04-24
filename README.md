@@ -18,7 +18,7 @@
 
 ## 🧠 Research & Projects
 
-### 🔬 [Hybrid Quantum-Classical CNN](https://github.com/hasanahmed77/cqcnn-reimplementation)
+### 🔬 Hybrid Quantum-Classical CNN
 - Re-implementation of a CQ-CNN architecture from recent research  
 - Evaluating performance across multiple datasets (MedMNIST family)  
 - Comparing hybrid models with classical CNN baselines  
@@ -26,7 +26,7 @@
 
 ---
 
-### 🧠 [Alzheimer’s MRI Classification](https://github.com/hasanahmed77/alzheimers-mri-deep-learning)
+### 🧠 Alzheimer’s MRI Classification
 - Deep learning project for Alzheimer’s disease classification from brain MRI images  
 - Explores CNN-based approaches for disease detection  
 - Focus on **medical imaging and real-world applicability**  
