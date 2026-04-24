@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 Research & Projects
+## 🧠 Research Projects
 
 ### 🔬 Hybrid Quantum-Classical CNN
 - Re-implementation of a CQ-CNN architecture from recent research  
