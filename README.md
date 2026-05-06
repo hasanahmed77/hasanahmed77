@@ -19,7 +19,7 @@
 - Tiny LLM Implementation on ESP32  
 - Star Wars Fighting Game
 - Medical AI: Alzheimer’s MRI Classification
-- 🔬 Hybrid Quantum-Classical CNN
+- Hybrid Quantum-Classical CNN
 
 ---
 
