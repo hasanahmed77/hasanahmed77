@@ -1,6 +1,6 @@
 # Hello, World! I'm Mustakim 👋
 
-- 🎓 CSE student @North South University  
+- 🎓 CSE student @NSU
 - 💻 Passionate about SWE, AI, and building scalable systems
 - 🚀 Focused on strict SWE ethics/ principles and industry standards
 - 🛠️ Always sharpening DSA and system design knowledge
