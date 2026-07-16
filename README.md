@@ -5,7 +5,7 @@
 - 🚀 Focused on strict SWE ethics/ principles and industry standards
 - 🛠️ Always sharpening DSA and system design knowledge
 
-## 🛠️ Languages | Frameworks | Database
+## 🛠️ Languages | Frameworks | Databases
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/) 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
@@ -22,23 +22,6 @@
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-
-## 📫 Connect With Me
-<a href="https://hasanahmed77.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=readme&logoColor=white" alt="Portfolio" />
-</a> 
-&nbsp;
-<a href="https://www.linkedin.com/in/mustakim-ahmed-hasan-b5a55128a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a> 
-&nbsp;
-<a href="mailto:mustakimahmedhasan@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a> 
-&nbsp;
-<a href="https://github.com/hasanahmed77" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
 
 ---
 
