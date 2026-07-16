@@ -1,4 +1,4 @@
-# Hello, World! I'm Mustakim 👋
+## Hello, World! I'm Mustakim 👋
 
 - 🎓 CSE student @NSU
 - 💻 Passionate about SWE, AI, and building scalable systems
@@ -22,11 +22,6 @@
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-
-## 🚀 Selected Projects
-- 📝 **AI Worksheet Generator** – Fullstack AI web-app generating and auto-grading worksheets  
-- 🎮 **2D Fighting Game** – Local multiplayer video game made with C
-- 🌐 **Alzheimer's Disease MRI** – Classifies AD stages
 
 ## 📫 Connect With Me
 <a href="https://hasanahmed77.github.io/" target="_blank">
