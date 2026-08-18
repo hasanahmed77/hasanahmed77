@@ -8,4 +8,4 @@ Currently reading papers, running experiments, building toward a research contri
 
 ---
 
-*"If you have fun, you can't lose." — PewDiePie*
+*“It's not about whether I can. I'm doing it because I want to.” — Monkey D. Luffy*
