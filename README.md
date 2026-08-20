@@ -5,7 +5,7 @@ Computer Science & Engineering undergrad at North South University.
 Researching on Computer Vision, especially, Out-of-Distribution detection.
 But, pivoting to Quantum Error Correction.
 
-Currently reading papers, running experiments, building toward a research contribution.
+Currently reading papers, running experiments, and building toward a research contribution.
 
 ---
 
