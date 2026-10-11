@@ -1,9 +1,9 @@
 ## Hello, world! I'm Mustakim.
 
-Computer Science & Engineering undergrad at North South University.
+Senior Computer Science & Engineering undergrad at North South University.
 
-Researching on Computer Vision, especially, Out-of-Distribution detection.
-Interested in becoming a Research Scientist/Engineer in Machine Learning.
+Researching on Computer Vision, especially, Out-of-Distribution detection in classical and quantum machine learning.
+Interested in becoming a Research Scientist/Engineer in ML.
 
 Currently reading papers, running experiments, and building toward a research contribution.
 
