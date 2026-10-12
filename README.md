@@ -2,10 +2,10 @@
 
 Senior Computer Science & Engineering undergrad at North South University.
 
-Researching on Computer Vision, especially, Out-of-Distribution detection in classical and quantum machine learning.
-Interested in becoming a Research Scientist/Engineer in ML.
+I'm interested in AI Engineering, building software/ML systems by using strong SWE principles.
+Also, I'm researching on computer vision, especially, out-of-distribution detection in classical and quantum machine learning.
 
-Currently reading papers, running experiments, and building toward a research contribution.
+Currently, I'm building software/ML systems, reading papers, and running experiments.
 
 ---
 
