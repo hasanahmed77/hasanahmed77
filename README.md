@@ -1,10 +1,10 @@
 ## Hello, World! I'm Mustakim. 👋
 
 - 🎓 Senior CSE student @NSU
-- 💻 Passionate about SWE, AI, and building scalable systems
+- 💻 Passionate about SWE, AI, Quantum Computing, and building scalable systems
 - 🚀 Focused on strict SWE ethics/ principles and industry standards
 - 🛠️ Always sharpening DSA knowledge
-- 🔬 Also researching on Quantum Software Engineering & Quantum Machine Learning.
+- 🔬 Also researching on Quantum Software Engineering & Quantum Machine Learning
 
 ## 🚀 Notable Projects
 
