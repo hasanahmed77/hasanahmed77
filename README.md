@@ -4,6 +4,18 @@
 - 💻 Passionate about SWE, AI, and building scalable systems
 - 🚀 Focused on strict SWE ethics/ principles and industry standards
 - 🛠️ Always sharpening DSA knowledge
+- 🔬 Also researching on Quantum Software Engineering & Quantum Machine Learning.
+
+## 🚀 Notable Projects
+
+- [Intelled Web](https://github.com/hasanahmed77/intelled-web)
+- [Rise, Tarnished](https://github.com/hasanahmed77/rise-tarnished)
+- [High-Performance Differentiable Quantum Simulator](https://github.com/hasanahmed77/high-performance-differentiable-quantum-simulator)
+
+## 🔬 Publications
+
+- [**Architecture-Induced Rank Reversal in Out-of-Distribution Detection**](https://openreview.net/forum?id=FPywdDJNDu)  
+  *NeurIPS 2026 TAE Workshop* (1<sup>st</sup> Author)
 
 ## 🛠️ Languages | Frameworks | Databases
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/) 
@@ -21,7 +33,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/) 
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)\
 
 ---
 
