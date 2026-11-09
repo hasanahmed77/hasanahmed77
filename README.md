@@ -4,7 +4,7 @@
 - 💻 Passionate about SWE, AI, Quantum Computing, and building scalable systems
 - 🚀 Focused on strict SWE ethics/ principles and industry standards
 - 🛠️ Always sharpening DSA knowledge
-- 🔬 Also researching on Quantum Software Engineering & Quantum Machine Learning
+- 🔬 Researching on Quantum Software Engineering & Quantum Machine Learning
 
 ## 🚀 Notable Projects
 
