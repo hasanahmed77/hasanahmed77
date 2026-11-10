@@ -1,4 +1,4 @@
-### Hello, World! I'm Mustakim. 👋
+### 👋 Hello, World! I'm Mustakim.
 
 - 🎓 Senior CSE student @NSU
 - 💻 Passionate about SWE, AI, Quantum Computing, and building scalable systems
