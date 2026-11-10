@@ -3,7 +3,7 @@
 - 🚀 Focused on strict SWE ethics/ principles and industry standards
 - 🛠️ Always building something and sharpening DSA knowledge
 - 🔬 Researching Quantum Software Engineering & Quantum Machine Learning
-- 📧 Reach me: mustakimahmedhasan@gmail.com
+- 📧 Reach me at mustakimahmedhasan@gmail.com
 
 ---
 
